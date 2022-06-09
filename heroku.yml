@@ -1,0 +1,5 @@
+build:
+  docker:
+    Mig: Dockerfile
+run:
+  Mig: python3 -m 𝐍𝐮𝐜𝐥𝐞𝐚𝐫 𝐗 𝐬𝐩𝐚𝐦
