@@ -21,4 +21,3 @@ async def edit_or_reply(event, text):
             return await reply_to.reply(text)
         return await event.reply(text)
     return await event.edit(text)
-

