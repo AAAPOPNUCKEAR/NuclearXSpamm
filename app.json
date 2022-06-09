@@ -1,17 +1,17 @@
 {
-    "name": "RIZOELXSPAM HERE.",
-    "description": "MOST POWERFUL + STABLE SPAM USERBOTS",
+    "name": "NuclearXspam.",
+    "description": " POWERFUL +  SPAM USERBOTS",
     "logo": "https://telegra.ph/file/db194f99e15db50f43c72.jpg",
     "keywords": [
         "telegram",
         "telethon",
         "telegram-bot",
-        "RiZoeLXSpam",
+        "NuclearXspam",
         "SpamBots"
     ],
-    "repository": "https://t.me/TheRiZoeL",
-    "website": "https://t.me/TheRiZoeL",
-    "success_url": "https://t.me/TheRiZoeL",
+    "repository": "https://t.me/NucLeaR_xD",
+    
+    "success_url": "https://t.me/NucLeaR_xD",
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
