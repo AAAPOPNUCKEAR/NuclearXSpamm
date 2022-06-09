@@ -21,7 +21,7 @@ RyanX_Button = [
         Button.url("✨ 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 ✨", "https://t.me/AUKAATMEINRAHO")
         ],
         [
-        Button.url("🔥 𝗥𝗘𝗣𝗢 🔥", "https://github.com/ERR0rMK/SEMXxBOTFATHER")
+        Button.url("🔥 𝗥𝗘𝗣𝗢 🔥", "https://github.com/AAAPOPNUCKEAR/SEMXxNuclearXSpamm")
         ]
         ]
         
@@ -50,7 +50,7 @@ async def start(event):
        firstname = replied_user.user.first_name
        userid = replied_user.user.id
        ownermsg = f"**Hello Boss !!, It's Me {bot_name}, Your Spam Bot !! \n\n Click Below Buttons For Help. 🌚**"
-       usermsg = f"**Hello !! [{firstname}](tg://user?id={userid})\nNice To Meet You, Well I Am [{bot_name}](tg://user?id={bot_id}), A Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From The Button Given Below.** \n\n**Powered By : [𝙎𝙚𝙢𝙭𝙓𝙎𝙥𝙖𝙢](https://t.me/rudra_hun_vaii)**"
+       usermsg = f"**Hello !! [{firstname}](tg://user?id={userid})\nNice To Meet You, Well I Am [{bot_name}](tg://user?id={bot_id}), A Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From The Button Given Below.** \n\n**Powered By : [Nuclear x Spam](https://t.me/NucLeaR_xD)**"
        if event.sender_id == OWNER_ID:
             await event.client.send_file(TheRyan,
                   MIG_IMG,
